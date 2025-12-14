@@ -1,5 +1,5 @@
 # data-analytics-portfolio
-I am Elizabeth Chambwina, a data analyst with a passion for turning raw data into actionable insights. Skills
+I am Elizabeth Chambwinja, a data analyst with a passion for turning raw data into actionable insights. Skills
 - **Programming:** Python, SQL, R
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 - **Machine Learning:** Regression, Classification, Clustering
