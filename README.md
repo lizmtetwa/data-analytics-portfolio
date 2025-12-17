@@ -1,13 +1,18 @@
-Hi, I’m Elizabeth Chambwinja.
+Hi, I’m Elizabeth Chambwinja 👋  
 
-🎓 I recently completed an intensive Data Analytics Bootcamp, where I gained hands-on experience working with Python, SQL, Excel, and Tableau on real-world datasets.
+📊 Data Analyst with hands-on experience using Python, SQL, Excel, and Tableau to analyse real-world datasets and generate actionable insights.
 
-📊 I’m passionate about transforming raw data into meaningful insights that support data-driven decision-making and solve practical business problems.
+I specialise in transforming raw data into meaningful insights that support data-driven decision-making and help solve practical business problems.
 
-🛠 My skills include data cleaning, exploratory data analysis, visualization, and basic statistical analysis, with projects ranging from in-depth analysis to interactive dashboard creation.
+🛠 **Core Skills**
+- Data cleaning and preparation  
+- Exploratory data analysis (EDA)  
+- Data visualisation and dashboarding  
+- SQL querying and analysis  
+- Basic statistical analysis  
 
-🌱 I am currently expanding my knowledge in machine learning fundamentals and cloud-based analytics tools to strengthen my analytical skill set.
+📁 My projects include end-to-end data analysis workflows, from data extraction and cleaning to insight generation and visual storytelling.
 
-🤝 I enjoy collaborating on projects, contributing to analytics communities, and continuously learning from others in the field.
+🌱 I am continuously expanding my knowledge in machine learning fundamentals and cloud-based analytics tools to strengthen my analytical skill set.
 
-🚀 My goal is to grow into a Data Analyst role where I can help organisations make smarter, data-informed decisions.
+🚀 I am seeking opportunities as a **Data Analyst / Reporting Analyst**, where I can apply data analysis techniques to deliver clear, impactful insights for organisations.
